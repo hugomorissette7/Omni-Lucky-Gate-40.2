@@ -1,0 +1,15 @@
+/workspaces/Omni-Lucky-Gate-40.2/bin/Debug/net8.0/GeminiSatoshiSwarm
+/workspaces/Omni-Lucky-Gate-40.2/bin/Debug/net8.0/GeminiSatoshiSwarm.deps.json
+/workspaces/Omni-Lucky-Gate-40.2/bin/Debug/net8.0/GeminiSatoshiSwarm.runtimeconfig.json
+/workspaces/Omni-Lucky-Gate-40.2/bin/Debug/net8.0/GeminiSatoshiSwarm.dll
+/workspaces/Omni-Lucky-Gate-40.2/bin/Debug/net8.0/GeminiSatoshiSwarm.pdb
+/workspaces/Omni-Lucky-Gate-40.2/obj/Debug/net8.0/omni.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/Omni-Lucky-Gate-40.2/obj/Debug/net8.0/omni.AssemblyInfoInputs.cache
+/workspaces/Omni-Lucky-Gate-40.2/obj/Debug/net8.0/omni.AssemblyInfo.cs
+/workspaces/Omni-Lucky-Gate-40.2/obj/Debug/net8.0/omni.csproj.CoreCompileInputs.cache
+/workspaces/Omni-Lucky-Gate-40.2/obj/Debug/net8.0/omni.sourcelink.json
+/workspaces/Omni-Lucky-Gate-40.2/obj/Debug/net8.0/GeminiSatoshiSwarm.dll
+/workspaces/Omni-Lucky-Gate-40.2/obj/Debug/net8.0/refint/GeminiSatoshiSwarm.dll
+/workspaces/Omni-Lucky-Gate-40.2/obj/Debug/net8.0/GeminiSatoshiSwarm.pdb
+/workspaces/Omni-Lucky-Gate-40.2/obj/Debug/net8.0/omni.genruntimeconfig.cache
+/workspaces/Omni-Lucky-Gate-40.2/obj/Debug/net8.0/ref/GeminiSatoshiSwarm.dll
