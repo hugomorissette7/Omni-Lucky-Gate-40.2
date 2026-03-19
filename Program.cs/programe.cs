@@ -46,4 +46,4 @@ class Program {
             Console.WriteLine("[RÉ-INITIALISATION] Le Bataillon se reforme...");
         }
     }
-}
+}Bash dotnet run
