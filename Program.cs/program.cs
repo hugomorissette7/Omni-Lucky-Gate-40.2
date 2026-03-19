@@ -61,4 +61,5 @@ namespace OmniSatoshi
             }
         }
     }
-}
+}Bash dotnet run
+
